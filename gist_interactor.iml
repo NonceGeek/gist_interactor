@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/hackney" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/ssl_verify_fun" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/httpoison" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/mimerl" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/certifi" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/unicode_util_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/idna" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/parse_trans" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/jason" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="httpoison" level="project" />
+    <orderEntry type="library" name="hackney" level="project" />
+    <orderEntry type="library" name="mimic" level="project" />
+    <orderEntry type="library" name="jason" level="project" />
+    <orderEntry type="library" name="httparrot" level="project" />
+    <orderEntry type="library" name="earmark" level="project" />
+    <orderEntry type="library" name="ex_doc" level="project" />
+    <orderEntry type="library" name="dialyxir" level="project" />
+    <orderEntry type="library" name="idna" level="project" />
+    <orderEntry type="library" name="mimerl" level="project" />
+    <orderEntry type="library" name="certifi" level="project" />
+    <orderEntry type="library" name="metrics" level="project" />
+    <orderEntry type="library" name="parse_trans" level="project" />
+    <orderEntry type="library" name="ssl_verify_fun" level="project" />
+    <orderEntry type="library" name="unicode_util_compat" level="project" />
+  </component>
+</module>
